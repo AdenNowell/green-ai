@@ -59,3 +59,6 @@ python src/inference.py --actual_watts_csv data/actual.csv --baseline_watts_csv 
 
 ## 6. License
 MIT
+
+---
+_This repository was created as a solo submission for the MARA Hackathon 2025, exploring how AI and blockchain can address the energy/compute imbalance. I'm excited to contribute to this challenge and learn from others in the space._
